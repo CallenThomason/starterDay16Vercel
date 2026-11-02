@@ -2,6 +2,7 @@
 // 🎮 scripts.js · Who's That Pokémon?
 // It imports the helpers and runs the game on the page.
 // =====================================================================
+//Hi everyone
 
 import { getPokemonList, getPokemon } from "./api.js";
 import { pickIds, shuffle, capitalize } from "./utils.js";
